@@ -1,2 +1,7 @@
 # Easy-and-simple-4-wheeled-car
 Personal project made by me bc its hard to find an easy vehicle to make with very little resources. By the time im writting this, the project is not finished, bc its my first time using github, idk if i will be able to change it. I am using lafvin hardware. Can be modified and used by anyone.
+
+Did this project because most projects on internet are either hard, need a lot of resources, or they need a 3d printer (which me and a lot od people dont have, and if you want to, the measurements are useful still.
+I AM NOT TRYING TO SAY THAT HARDER OR RESOURCEFUL PROJECTS ARE WORSE.
+Even if this project was tought to be made with inspiration from a diferent one, i didnt like them, so i decided to make it myself
+This project has a very low aim, but im planing to use it as a base for bigger, better and greater projects, i might add things here still. Stay tuned
