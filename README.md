@@ -8,3 +8,5 @@ This project has a very low aim, but im planing to use it as a base for bigger, 
 Project was also inspired by Dr Stone lol
 
 Current state: Making the chasis for the vehicle
+
+Btw due to me being spanish, most titles will be in spanish. However, descriptions and explanations will be in english
