@@ -5,3 +5,4 @@ Did this project because most projects on internet are either hard, need a lot o
 I AM NOT TRYING TO SAY THAT HARDER OR RESOURCEFUL PROJECTS ARE WORSE.
 Even if this project was tought to be made with inspiration from a diferent one, i didnt like them, so i decided to make it myself
 This project has a very low aim, but im planing to use it as a base for bigger, better and greater projects, i might add things here still. Stay tuned
+Project was also inspired by Dr Stone lol
