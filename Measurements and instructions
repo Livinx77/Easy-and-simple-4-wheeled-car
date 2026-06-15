@@ -1,0 +1,21 @@
+Chasis:
+30cm x 10cm (my breadboard is 25cm x 7cm)
+cutouts are as deep as 1cm before the servo hole to give mechanical freedom
+the hole for the servo is just a common servos size and the gear hole is the diameter of the gear plus 1-2 cm
+Axle:
+Total freedom for how free or how wide the car you want to be
+wheels:
+I used some 12 cm rubber wheels for convenience bc I alr had them but you can use silicone + cartboard or any material with a lot of friction
+
+Instructions:
+First, pick your front axle (the servo one) and on each end squeeze the wheeles and seal them so if you push pull or twist, it doesnt move and the axle moves with it,
+then, to secure it to the chasis you can une a soldering tool to make a hole vertically between where the axle should be and secure it with a cable tie so it doesnt
+stick to the axle but its also secured in place. Finally install the turning mechanism with the servo in its own hole
+
+Secondly, for the back and the axle that is responsible for the back and forth movement you have to do the same wheel inserting method but instead of putting the 2 
+wheels, add your prefered gear in the middle knowing that you will later need torque and speed (I recomend the gear ratio to be 30:1-20:1) then prepare your
+transmission and first do the cable tie thing I said early and trough the gear hole where a gear should be visible and connect your transmission and the just plug 
+the H circuit in and try if the whole thing moves. if it moves and turns you have finished it, if it doesnt move, try checking the axles, give more voltage to the DC
+motor or change the transmission (a 1:30 probably needs help to start up)
+
+Feel free to ask any question
