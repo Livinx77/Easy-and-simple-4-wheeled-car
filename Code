@@ -1,0 +1,30 @@
+// C++ code
+//
+#include <Servo.h>
+
+Servo servo_9;
+
+void setup()
+{
+  servo_9.attach(9, 500, 2500);
+  pinMode(7, INPUT);
+  pinMode(6, INPUT);
+
+  servo_9.write(90);
+}
+
+void loop()
+{
+  if (digitalRead(7) == HIGH) {
+    servo_9.write(140);
+  } else {
+    servo_9.write(90);
+    if (digitalRead(6) == HIGH) {
+      servo_9.write(40);
+    } else {
+      servo_9.write(90);
+    }
+  }
+  delay(10); // Delay a little bit to improve simulation performance
+}
+//Funny because it is just for the servo and its two buttons. Unexpectedly it is easier than I thought
