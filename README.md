@@ -7,6 +7,5 @@ Even if this project was tought to be made with inspiration from a diferent one,
 This project has a very low aim, but im planing to use it as a base for bigger, better and greater projects, i might add things here still. Stay tuned.
 Project was also inspired by Dr Stone lol
 
-Current state: Trials for the car. project is kinda finished mines not working as well tho but it is bc of the low cuality of my resources lol
-
+Current state: FINISHED AND NOT ADDING BLUETOOTH
 Btw due to me being spanish, most titles will be in spanish. However, descriptions and explanations will be in english
