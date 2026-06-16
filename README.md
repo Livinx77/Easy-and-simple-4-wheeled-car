@@ -19,6 +19,8 @@ Easy to mod, change and make (20 minutes max of building)
 
 Flexible measurements
  
-Current state: FINISHED AND NOT ADDING BLUETOOTH BC I DONT HAVE A MODULE
+Current state: FINISHED AND NOT ADDING BLUETOOTH BC I DONT HAVE A MODULE 
+
+FINAL TIME: 20 HOURS
 
 Btw due to me being spanish, most titles will be in spanish. However, descriptions and explanations will be in english
