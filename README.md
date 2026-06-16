@@ -7,6 +7,20 @@ Even if this project was tought to be made with inspiration from a diferent one,
 This project has a very low aim, but im planing to use it as a base for bigger, better and greater projects, i might add things here still. Stay tuned.
 Project was also inspired by Dr Stone lol
 
+The car is able to:
+
+Move (easier with bluetooth module)
+
+Turn (easier with bluetooth module)
+
+Its highly modifiable, it can transform into many things just by changing the chasis, its essentialy a skeleton for anything.
+
+Easy to mod, change and make (20 minutes max of building) 
+
+Flexible measurements
+
+Its a 
+
 Current state: FINISHED AND NOT ADDING BLUETOOTH BC I DONT HAVE A MODULE
 
 Btw due to me being spanish, most titles will be in spanish. However, descriptions and explanations will be in english
